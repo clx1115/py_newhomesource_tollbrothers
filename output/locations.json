@@ -1,0 +1,280 @@
+{
+  "Arizona": [
+    {
+      "name": "Phoenix",
+      "url": "https://www.tollbrothers.com/luxury-homes/Phoenix-AZ"
+    },
+    {
+      "name": "Sedona",
+      "url": "https://www.tollbrothers.com/luxury-homes/Sedona-AZ"
+    }
+  ],
+  "California": [
+    {
+      "name": "Inland Empire",
+      "url": "https://www.tollbrothers.com/luxury-homes/Inland-Empire-CA"
+    },
+    {
+      "name": "Los Angeles",
+      "url": "https://www.tollbrothers.com/luxury-homes/Los-Angeles-CA"
+    },
+    {
+      "name": "Orange County",
+      "url": "https://www.tollbrothers.com/luxury-homes/Orange-County-CA"
+    },
+    {
+      "name": "Palm Springs",
+      "url": "https://www.tollbrothers.com/luxury-homes/Palm-Springs-CA"
+    },
+    {
+      "name": "Sacramento",
+      "url": "https://www.tollbrothers.com/luxury-homes/Sacramento-CA"
+    },
+    {
+      "name": "San Diego",
+      "url": "https://www.tollbrothers.com/luxury-homes/San-Diego-CA"
+    },
+    {
+      "name": "San Francisco",
+      "url": "https://www.tollbrothers.com/luxury-homes/San-Francisco-CA"
+    },
+    {
+      "name": "San Jose",
+      "url": "https://www.tollbrothers.com/luxury-homes/San-Jose-CA"
+    },
+    {
+      "name": "Ventura County",
+      "url": "https://www.tollbrothers.com/luxury-homes/Ventura-County-CA"
+    }
+  ],
+  "Colorado": [
+    {
+      "name": "Colorado Springs",
+      "url": "https://www.tollbrothers.com/luxury-homes/Colorado-Springs-CO"
+    },
+    {
+      "name": "Denver",
+      "url": "https://www.tollbrothers.com/luxury-homes/Denver-CO"
+    },
+    {
+      "name": "Fort Collins",
+      "url": "https://www.tollbrothers.com/luxury-homes/Fort-Collins-CO"
+    }
+  ],
+  "Connecticut": [
+    {
+      "name": "New Haven",
+      "url": "https://www.tollbrothers.com/luxury-homes/New-Haven-CT"
+    }
+  ],
+  "Delaware": [
+    {
+      "name": "Wilmington",
+      "url": "https://www.tollbrothers.com/luxury-homes/Wilmington-DE"
+    }
+  ],
+  "Florida": [
+    {
+      "name": "Boca Raton",
+      "url": "https://www.tollbrothers.com/luxury-homes/Boca-Raton-FL"
+    },
+    {
+      "name": "Jacksonville",
+      "url": "https://www.tollbrothers.com/luxury-homes/Jacksonville-FL"
+    },
+    {
+      "name": "Naples",
+      "url": "https://www.tollbrothers.com/luxury-homes/Naples-FL"
+    },
+    {
+      "name": "Orlando",
+      "url": "https://www.tollbrothers.com/luxury-homes/Orlando-FL"
+    },
+    {
+      "name": "Palm Coast",
+      "url": "https://www.tollbrothers.com/luxury-homes/Palm-Coast-FL"
+    },
+    {
+      "name": "Panama City Beach",
+      "url": "https://www.tollbrothers.com/luxury-homes/Panama-City-Beach-FL"
+    },
+    {
+      "name": "Sarasota",
+      "url": "https://www.tollbrothers.com/luxury-homes/Sarasota-FL"
+    },
+    {
+      "name": "Tampa",
+      "url": "https://www.tollbrothers.com/luxury-homes/Tampa-FL"
+    },
+    {
+      "name": "West Palm Beach",
+      "url": "https://www.tollbrothers.com/luxury-homes/West-Palm-Beach-FL"
+    }
+  ],
+  "Georgia": [
+    {
+      "name": "Atlanta",
+      "url": "https://www.tollbrothers.com/luxury-homes/Atlanta-GA"
+    }
+  ],
+  "Idaho": [
+    {
+      "name": "Boise",
+      "url": "https://www.tollbrothers.com/luxury-homes/Boise-ID"
+    },
+    {
+      "name": "Coeur d'Alene",
+      "url": "https://www.tollbrothers.com/luxury-homes/Coeur-d'Alene-ID"
+    }
+  ],
+  "Maryland": [
+    {
+      "name": "Baltimore",
+      "url": "https://www.tollbrothers.com/luxury-homes/Baltimore-MD"
+    }
+  ],
+  "Massachusetts": [
+    {
+      "name": "Boston",
+      "url": "https://www.tollbrothers.com/luxury-homes/Boston-MA"
+    }
+  ],
+  "Michigan": [
+    {
+      "name": "Detroit",
+      "url": "https://www.tollbrothers.com/luxury-homes/Detroit-MI"
+    }
+  ],
+  "Nevada": [
+    {
+      "name": "Las Vegas",
+      "url": "https://www.tollbrothers.com/luxury-homes/Las-Vegas-NV"
+    },
+    {
+      "name": "Reno",
+      "url": "https://www.tollbrothers.com/luxury-homes/Reno-NV"
+    }
+  ],
+  "New Jersey": [
+    {
+      "name": "Central New Jersey",
+      "url": "https://www.tollbrothers.com/luxury-homes/Central-New-Jersey-NJ"
+    },
+    {
+      "name": "Northern New Jersey",
+      "url": "https://www.tollbrothers.com/luxury-homes/Northern-New-Jersey-NJ"
+    }
+  ],
+  "New York": [
+    {
+      "name": "Dutchess County",
+      "url": "https://www.tollbrothers.com/luxury-homes/Dutchess-County-NY"
+    },
+    {
+      "name": "Long Island",
+      "url": "https://www.tollbrothers.com/luxury-homes/Long-Island-NY"
+    },
+    {
+      "name": "New York",
+      "url": "https://www.tollbrothers.com/luxury-homes/New-York-NY"
+    },
+    {
+      "name": "Westchester",
+      "url": "https://www.tollbrothers.com/luxury-homes/Westchester-NY"
+    }
+  ],
+  "North Carolina": [
+    {
+      "name": "Charlotte",
+      "url": "https://www.tollbrothers.com/luxury-homes/Charlotte-NC"
+    },
+    {
+      "name": "Raleigh",
+      "url": "https://www.tollbrothers.com/luxury-homes/Raleigh-NC"
+    }
+  ],
+  "Oregon": [
+    {
+      "name": "Portland",
+      "url": "https://www.tollbrothers.com/luxury-homes/Portland-OR"
+    }
+  ],
+  "Pennsylvania": [
+    {
+      "name": "Philadelphia",
+      "url": "https://www.tollbrothers.com/luxury-homes/Philadelphia-PA"
+    }
+  ],
+  "South Carolina": [
+    {
+      "name": "Charleston",
+      "url": "https://www.tollbrothers.com/luxury-homes/Charleston-SC"
+    },
+    {
+      "name": "Greenville",
+      "url": "https://www.tollbrothers.com/luxury-homes/Greenville-SC"
+    },
+    {
+      "name": "Hilton Head",
+      "url": "https://www.tollbrothers.com/luxury-homes/Hilton-Head-SC"
+    },
+    {
+      "name": "Myrtle Beach",
+      "url": "https://www.tollbrothers.com/luxury-homes/Myrtle-Beach-SC"
+    }
+  ],
+  "Tennessee": [
+    {
+      "name": "Nashville",
+      "url": "https://www.tollbrothers.com/luxury-homes/Nashville-TN"
+    }
+  ],
+  "Texas": [
+    {
+      "name": "Austin",
+      "url": "https://www.tollbrothers.com/luxury-homes/Austin-TX"
+    },
+    {
+      "name": "Dallas-Fort Worth",
+      "url": "https://www.tollbrothers.com/luxury-homes/Dallas-Fort-Worth-TX"
+    },
+    {
+      "name": "Houston",
+      "url": "https://www.tollbrothers.com/luxury-homes/Houston-TX"
+    },
+    {
+      "name": "San Antonio",
+      "url": "https://www.tollbrothers.com/luxury-homes/San-Antonio-TX"
+    }
+  ],
+  "Utah": [
+    {
+      "name": "Salt Lake City",
+      "url": "https://www.tollbrothers.com/luxury-homes/Salt-Lake-City-UT"
+    },
+    {
+      "name": "St George",
+      "url": "https://www.tollbrothers.com/luxury-homes/St-George-UT"
+    }
+  ],
+  "Virginia": [
+    {
+      "name": "Washington, DC",
+      "url": "https://www.tollbrothers.com/luxury-homes/Washington-DC"
+    }
+  ],
+  "Washington": [
+    {
+      "name": "Seattle",
+      "url": "https://www.tollbrothers.com/luxury-homes/Seattle-WA"
+    },
+    {
+      "name": "Spokane",
+      "url": "https://www.tollbrothers.com/luxury-homes/Spokane-WA"
+    },
+    {
+      "name": "Vancouver",
+      "url": "https://www.tollbrothers.com/luxury-homes/Vancouver-WA"
+    }
+  ]
+}
