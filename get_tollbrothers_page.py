@@ -514,7 +514,11 @@ class TollBrothersDetailScraper:
                 addr = jsonld['address']
                 address = f"{addr.get('streetAddress', '')}, {addr.get('addressLocality', '')}, {addr.get('addressRegion', '')} {addr.get('postalCode', '')}".strip(', ')
             phone = jsonld.get('telephone', '')
-            description = jsonld.get('description', '')
+            
+            # 优先从指定class获取description
+            description_elem = soup.find('p', class_='CommunityOverview_overviewDescription__0bJS6 tracking_prop_body')
+            description = description_elem.text.strip() if description_elem else (jsonld.get('description', '') or '')
+            
             price = jsonld.get('priceRange', None) or jsonld.get('offers', {}).get('price', None)
             # 3. 提取地理坐标
             latitude = None
